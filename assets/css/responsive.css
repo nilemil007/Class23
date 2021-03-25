@@ -1,0 +1,90 @@
+/*************************************/
+/***** Screen >992 PX ***********/
+/*************************************/
+@media all and (max-width: 1199.98px){    /* (min-width: 992px) and */
+
+   /* Contact Part */
+    .contact-form {padding: 10px 61px;}
+    /* End Contact Part */
+
+}/* End Media Quary >992 Px */
+
+
+/*************************************/
+/***** Screen >768 PX ***********/
+/*************************************/
+@media all and (max-width: 991.98px){   /* (min-width: 768px) and */
+
+    /* Service Part */
+    .sec-head p {width: 100%;}
+    .service-part {padding: 60px 0px 0px;}
+    /* End Service Part */
+
+    /* Our Team Part */
+    .team{padding: 80px 0px 0px;}
+    /* End Our Team Part */
+
+    /* Skills Part */
+    .skills{padding: 80px 0px 0px;}
+    .skill-head p {width: 100%;}
+    /* End Skills Part */
+
+    /* Portfolio Part */
+    .portfolio-head p{width: 100%;}
+    /* End Portfolio Part */
+
+    /* About Us Part */
+    .about-us {padding: 80px 0px 0px;}
+    .card-item .content {width: 100%;}
+    /* End About Us Part */
+
+    /* Contact Part */
+    .contact-form {padding: 10px 0px;}
+    /* End Contact Part */
+
+    /* Footer Part */
+    .footer-part li {margin-right: 23px;}
+    /* End Footer Part */
+
+}/* End Media Quary >768 Px */
+
+
+/*************************************/
+/***** Screen >576 PX ***********/
+/*************************************/
+@media all and (max-width: 767.98px){ /* (min-width: 576px) and  */
+
+    /* Header Part */
+    .header-part .action h1{margin: 45px 0px 45px;}
+    .action br{display: none;}
+    /* End Header Part */
+
+    /* Our Team Part */
+    .team-item {width: 100%;}
+    /* End Our Team Part */
+
+}/* End Media Quary >576 Px */
+
+
+/*************************************/
+/***** Small Screen ***********/
+/*************************************/
+@media all and (max-width: 575.98px){
+
+    /* About Us Part */
+    .card-item .content {width: 100%;margin-left: 20px;}
+    /* End About Us Part */
+
+}/* End Media Quary Small Screen */
+
+
+/*************************************/
+/***** Custom Screen ***********/
+/*************************************/
+@media all and (max-width: 350.98px){
+
+    /* Portfolio Part */
+    .portfolio-menu ul li {font-size: 12px;}
+    /* End Portfolio Part */
+
+}/* End Media Quary Small Screen */
